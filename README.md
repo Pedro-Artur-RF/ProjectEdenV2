@@ -88,6 +88,8 @@ Project Eden is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 If you encounter any issues or have suggestions for new features, please open an issue on the [GitHub Issues Page](https://github.com/Pedro-Artur-RF/ProjectEdenV2/issues).
 
 Join our [Discord Server](https://discord.gg/wxfcPH7Qey) for community support and updates.
+Python ver.: 3.12.8
+pip ver.: 24.3.1
 
 ---
 
