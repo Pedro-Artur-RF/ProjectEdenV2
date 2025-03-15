@@ -40,9 +40,9 @@ Welcome to **Project Eden**, a versatile and modular RPG bot designed to enhance
    - Rename `config.example.json` to `config.json`.
    - Fill in your Discord bot token and other configuration options.
 
-4. **Run the Bot**:
+4. **Run the Main File**:
    ```bash
-   python bot.py
+   python main.py
    ```
 
 5. **Invite the Bot to Your Server**:
